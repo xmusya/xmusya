@@ -1,4 +1,4 @@
-# i use arcg btw xD
+# i use arch btw xD
 ![niri btw](gif.gif)
 ### proffesional larper and vibecoder(using gemini/opencode)
 
