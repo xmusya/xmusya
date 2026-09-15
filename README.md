@@ -1,5 +1,5 @@
 # i use arch btw xD
-![archkde btw](gif.gif)
+<img src="gif.gif" alt="archkde btw" width="1024">
 ### proffesional larper and vibecoder(using gemini/opencode)
 
 - os: arch linux
